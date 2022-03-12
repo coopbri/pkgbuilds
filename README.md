@@ -7,6 +7,9 @@ Packages I maintain in the Arch Linux [Arch User Repository (AUR)](https://aur.a
 
 Powered by [aurpublish](https://github.com/eli-schwartz/aurpublish), created by Eli Schwartz ([@eli-schwartz](https://github.com/eli-schwartz)).
 
+## Documentation
+- [Upgrade and publish an AUR package](docs/publish.md)
+
 ## License
 Original code in this repository is licensed under MIT, &copy; Brian Cooper. See <a href="LICENSE.md">LICENSE.md</a> for more information.
 
